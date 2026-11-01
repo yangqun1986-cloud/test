@@ -1,2 +1,2 @@
 # test
-测试GitHub
+仅测试GitHub
